@@ -1,0 +1,11 @@
+2021-04-11 23:17:38,565 DEBUG [pool-1-thread-1] Page:30 - Calling driver in Page :org.openqa.selenium.remote.RemoteWebDriver$RemoteWebDriverOptions@45f23e63
+2021-04-11 23:17:42,171 DEBUG [pool-1-thread-1] Page:53 - Generic Lib to get instance of drivercom.myPages.LoginPage
+2021-04-11 23:17:42,171 DEBUG [pool-1-thread-1] Page:30 - Calling driver in Page :org.openqa.selenium.remote.RemoteWebDriver$RemoteWebDriverOptions@4d2711ae
+2021-04-11 23:18:58,600 DEBUG [pool-1-thread-2] Page:30 - Calling driver in Page :org.openqa.selenium.remote.RemoteWebDriver$RemoteWebDriverOptions@3f9dd0c0
+2021-04-11 23:18:58,630 DEBUG [pool-1-thread-2] Page:53 - Generic Lib to get instance of drivercom.myPages.LoginPage
+2021-04-11 23:18:58,910 DEBUG [pool-1-thread-2] Page:30 - Calling driver in Page :org.openqa.selenium.remote.RemoteWebDriver$RemoteWebDriverOptions@52a9db31
+2021-04-11 23:20:13,038 DEBUG [pool-1-thread-3] Page:30 - Calling driver in Page :org.openqa.selenium.remote.RemoteWebDriver$RemoteWebDriverOptions@7742523e
+2021-04-11 23:20:13,043 DEBUG [pool-1-thread-3] Page:53 - Generic Lib to get instance of drivercom.myPages.LoginPage
+2021-04-11 23:20:13,043 DEBUG [pool-1-thread-3] Page:30 - Calling driver in Page :org.openqa.selenium.remote.RemoteWebDriver$RemoteWebDriverOptions@260e81c3
+2021-04-11 23:20:17,304 DEBUG [pool-1-thread-3] Page:53 - Generic Lib to get instance of drivercom.myPages.Homepage
+2021-04-11 23:20:17,304 DEBUG [pool-1-thread-3] Page:30 - Calling driver in Page :org.openqa.selenium.remote.RemoteWebDriver$RemoteWebDriverOptions@1d2e8d1e

@@ -1,0 +1,11 @@
+2021-04-11 23:17:38,565 - com.myPages.Page -DEBUG - Calling driver in Page :org.openqa.selenium.remote.RemoteWebDriver$RemoteWebDriverOptions@45f23e63
+2021-04-11 23:17:42,171 - com.myPages.Page -DEBUG - Generic Lib to get instance of drivercom.myPages.LoginPage
+2021-04-11 23:17:42,171 - com.myPages.Page -DEBUG - Calling driver in Page :org.openqa.selenium.remote.RemoteWebDriver$RemoteWebDriverOptions@4d2711ae
+2021-04-11 23:18:58,600 - com.myPages.Page -DEBUG - Calling driver in Page :org.openqa.selenium.remote.RemoteWebDriver$RemoteWebDriverOptions@3f9dd0c0
+2021-04-11 23:18:58,630 - com.myPages.Page -DEBUG - Generic Lib to get instance of drivercom.myPages.LoginPage
+2021-04-11 23:18:58,910 - com.myPages.Page -DEBUG - Calling driver in Page :org.openqa.selenium.remote.RemoteWebDriver$RemoteWebDriverOptions@52a9db31
+2021-04-11 23:20:13,038 - com.myPages.Page -DEBUG - Calling driver in Page :org.openqa.selenium.remote.RemoteWebDriver$RemoteWebDriverOptions@7742523e
+2021-04-11 23:20:13,043 - com.myPages.Page -DEBUG - Generic Lib to get instance of drivercom.myPages.LoginPage
+2021-04-11 23:20:13,043 - com.myPages.Page -DEBUG - Calling driver in Page :org.openqa.selenium.remote.RemoteWebDriver$RemoteWebDriverOptions@260e81c3
+2021-04-11 23:20:17,304 - com.myPages.Page -DEBUG - Generic Lib to get instance of drivercom.myPages.Homepage
+2021-04-11 23:20:17,304 - com.myPages.Page -DEBUG - Calling driver in Page :org.openqa.selenium.remote.RemoteWebDriver$RemoteWebDriverOptions@1d2e8d1e

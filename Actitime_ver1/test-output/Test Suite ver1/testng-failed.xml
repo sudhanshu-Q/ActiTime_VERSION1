@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="2" guice-stage="DEVELOPMENT" verbose="3" name="Failed suite [Test Suite ver1]" parallel="tests">
+  <parameter name="browser" value="Firefox"/>
+  <test thread-count="5" name="Chrome browser Sanity" parallel="methods">
+    <parameter name="browser" value="Chrome"/>
+    <classes>
+      <class name="com.MyTest.LoginTest"/>
+    </classes>
+  </test> <!-- Chrome browser Sanity -->
+  <test thread-count="5" name="Firefox browser Sanity" parallel="methods">
+    <parameter name="browser" value="Firefox"/>
+    <classes>
+      <class name="com.MyTest.LoginTest"/>
+    </classes>
+  </test> <!-- Firefox browser Sanity -->
+  <test name="Firefox browser Sanity(failed)" parallel="methods">
+    <parameter name="browser" value="Firefox"/>
+    <classes>
+      <class name="com.MyTest.LoginTest">
+        <methods>
+          <include name="doLoginTest"/>
+          <include name="verifyloginPageTitleTest"/>
+          <include name="teardown"/>
+          <include name="verifyLoginPageHeader"/>
+          <include name="setup"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.MyTest.LoginTest -->
+    </classes>
+  </test> <!-- Firefox browser Sanity(failed) -->
+  <test name="Chrome browser Sanity(failed)" parallel="methods">
+    <parameter name="browser" value="Chrome"/>
+    <classes>
+      <class name="com.MyTest.LoginTest">
+        <methods>
+          <include name="doLoginTest"/>
+          <include name="verifyloginPageTitleTest"/>
+          <include name="teardown"/>
+          <include name="verifyLoginPageHeader"/>
+          <include name="setup"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.MyTest.LoginTest -->
+    </classes>
+  </test> <!-- Chrome browser Sanity(failed) -->
+</suite> <!-- Failed suite [Test Suite ver1] -->
